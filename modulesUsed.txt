@@ -1,0 +1,6 @@
+To Run Client Program:
+$env:NODE_OPTIONS="--openssl-legacy-provider"
+npm start
+
+1. Bootstrap
+2.Ant Design
